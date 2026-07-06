@@ -1,0 +1,13 @@
+match_id,date,venue,team1,team2,toss_winner,toss_decision,first_ings_score,first_ings_wkts,second_ings_score,second_ings_wkts,winner,win_type,win_margin,player_of_match
+1,2026-03-28,M. Chinnaswamy Stadium,RCB,SRH,RCB,Bowl,201,9,203,4,RCB,wickets,6,Jacob Duffy
+2,2026-03-29,Wankhede Stadium,MI,KKR,MI,Bowl,220,4,224,4,MI,wickets,6,Shardul Thakur
+3,2026-03-30,Barsapara Stadium,RR,CSK,RR,Bowl,127,10,128,2,RR,wickets,8,Nandre Burger
+4,2026-03-31,New PCA Cricket Stadium,PBKS,GT,PBKS,Bowl,162,6,165,7,PBKS,wickets,3,Cooper Connolly
+5,2026-04-01,Ekana Cricket Stadium,LSG,DC,DC,Bowl,141,10,145,4,DC,wickets,6,Sameer Rizvi
+6,2026-04-02,Eden Gardens,KKR,SRH,KKR,Bowl,226,8,161,10,SRH,runs,65,Nitish Kumar Reddy
+7,2026-04-03,MA Chidambaram Stadium,CSK,PBKS,PBKS,Bowl,209,5,210,5,PBKS,wickets,5,Priyansh Arya
+8,2026-04-04,Arun Jaitley Stadium,DC,MI,DC,Bowl,162,6,164,4,DC,wickets,6,Sameer Rizvi
+9,2026-04-04,Narendra Modi Stadium,GT,RR,RR,Bowl,210,6,204,8,RR,runs,6,Ravi Bishnoi
+10,2026-04-05,Rajiv Gandhi International Stadium,SRH,LSG,SRH,Bowl,156,9,160,5,LSG,wickets,5,Mohammed Shami
+11,2026-04-05,M. Chinnaswamy Stadium,RCB,CSK,RCB,Bowl,250,3,207,10,RCB,runs,43,Virat Kohli
+12,2026-04-07,Barsapara Stadium,RR,MI,RR,field,180,5,181,4,RR,wickets,6,Unknown

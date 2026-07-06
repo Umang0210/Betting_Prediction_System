@@ -1,0 +1,12 @@
+match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_ings_score,first_ings_wkts,second_ings_score,second_ings_wkts,match_result,match_winner,wb_runs,wb_wickets,balls_left,player_of_the_match,top_scorer,highscore,best_bowling,best_bowling_figure
+1,"March 28, 2026","M. Chinnaswamy Stadium, Bangalore",RCB,SRH,League,RCB,Bowl,201,9,203,4,completed,RCB,,6,26,Jacob Duffy,Ishan Kishan,80,Jacob Duffy,3--22
+2,"March 29, 2026","Wankhede Stadium, Mumbai",MI,KKR,League,MI,Bowl,220,4,224,4,completed,MI,,6,5,Shardul Thakur,Ryan Rickelton,81,Shardul Thakur,3--39
+3,"March 30, 2026","Barsapara Stadium, Guwahati",RR,CSK,League,RR,Bowl,127,10,128,2,completed,RR,,8,47,Nandre Burger,Vaibhav Sooryavanshi,52,Jofra Archer,2--19
+4,"March 31, 2026","New PCA Cricket Stadium, Mullanpur",PBKS,GT,League,PBKS,Bowl,162,6,165,7,completed,PBKS,,3,5,Cooper Connolly,Cooper Connolly,72,Prasidh Krishna,3--29
+5,"April 01, 2026","Ekana Cricket Stadium, Lucknow",LSG,DC,League,DC,Bowl,141,10,145,4,completed,DC,,6,17,Sameer Rizvi,Sameer Rizvi,70,Lungi Ngidi,3--27
+6,"April 02, 2026","Eden Gardens, Kolkata",KKR,SRH,League,KKR,Bowl,226,8,161,10,completed,SRH,65,,,Nitish Kumar Reddy,Angkrish Raghuvanshi,52,Blessing Muzarabani,4--41
+7,"April 03, 2026","MA Chidambaram Stadium, Chennai",CSK,PBKS,League,PBKS,Bowl,209,5,210,5,completed,PBKS,,5,8,Priyansh Arya,Ayush Matre,73,Vijaykumar Vyshak,2--38
+8,"April 04, 2026","Arun Jaitley Stadium, Delhi",DC,MI,League,DC,Bowl,162,6,164,4,completed,DC,,6,17,Sameer Rizvi,Sameer Rizvi,70,Lungi Ngidi,3--27
+9,"April 04, 2026","Narendra Modi Stadium, Ahmedabad",GT,RR,League,RR,Bowl,210,6,204,8,completed,RR,6,,,,Ravi Bishnoi,66,Ravi Bishnoi,3--32
+10,"April 05, 2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,League,SRH,Bowl,156,9,160,5,completed,LSG,,5,16,Mohammed Shami,Mohammed Shami,35,Mohammed Shami,3--28
+11,"April 05, 2026","M. Chinnaswamy Stadium, Bangalore",RCB,CSK,League,RCB,Bowl,250,3,207,10,completed,RCB,43,,,,Virat Kohli,113,Josh Hull,3--48

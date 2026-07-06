@@ -1,0 +1,1015 @@
+{
+  "Head To Head - Match": {
+    "Punjab Kings": 1.76,
+    "Sunrisers Hyderabad": 2.06
+  },
+  "First Innings Total Runs - 1st Innings": {
+    "over 196.5": 1.85,
+    "under 196.5": 1.85
+  },
+  "Total Spreads - Sunrisers Hyderabad - 1st Innings": {
+    "over 187.5": 1.87,
+    "under 187.5": 1.87
+  },
+  "Total runs for over 1 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 7.5": 1.71,
+    "under 7.5": 2.06,
+    "over 8.5": 2.00,
+    "under 8.5": 1.75
+  },
+  "Total runs for over 2 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 8.5": 1.77,
+    "under 8.5": 1.98,
+    "over 9.5": 2.06,
+    "under 9.5": 1.72
+  },
+  "Total runs for over 3 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 8.5": 1.61,
+    "under 8.5": 2.24,
+    "over 9.5": 1.83,
+    "under 9.5": 1.91
+  },
+  "Total runs for over 4 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 9.5": 1.75,
+    "under 9.5": 2.00,
+    "over 10.5": 2.00,
+    "under 10.5": 1.75
+  },
+  "Total runs for over 5 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 9.5": 1.73,
+    "under 9.5": 2.04,
+    "over 10.5": 1.97,
+    "under 10.5": 1.78
+  },
+  "Total runs for over 6 in 1st inning - Punjab Kings - 1st Innings": {
+    "over 9.5": 1.71,
+    "under 9.5": 2.06,
+    "over 10.5": 1.94,
+    "under 10.5": 1.80
+  },
+  "Total runs after 6 overs - Punjab Kings - 1st Innings": {
+    "over 54.5": 1.45,
+    "under 54.5": 2.56,
+    "over 59.5": 1.81,
+    "under 59.5": 1.90,
+    "over 64.5": 2.38,
+    "under 64.5": 1.52
+  },
+  "Total runs after 8 overs - Punjab Kings - 1st Innings": {
+    "over 71.5": 1.52,
+    "under 71.5": 2.38,
+    "over 76.5": 1.84,
+    "under 76.5": 1.86,
+    "over 81.5": 2.32,
+    "under 81.5": 1.54
+  },
+  "Total runs after 10 overs - Punjab Kings - 1st Innings": {
+    "over 89.5": 1.57,
+    "under 89.5": 2.26,
+    "over 94.5": 1.87,
+    "under 94.5": 1.84,
+    "over 99.5": 2.30,
+    "under 99.5": 1.55
+  },
+  "Win/Draw/Win 1st over - 1st Innings": {
+    "1": 1.97,
+    "X": 13.50,
+    "2": 1.89
+  },
+  "Batsman Runs - Arya, Priyansh - 1st Innings": {
+    "over 23.5": 1.87,
+    "under 23.5": 1.87
+  },
+  "Batsman Runs - Head, Travis - 1st Innings": {
+    "over 24.5": 1.87,
+    "under 24.5": 1.87
+  },
+  "Batsman Runs - Kishan, Ishan - 1st Innings": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.87
+  },
+  "Batsman Runs - Livingstone, Liam - 1st Innings": {
+    "over 18.5": 1.87,
+    "under 18.5": 1.87
+  },
+  "Batsman Runs - Singh, Prabhsimran - 1st Innings": {
+    "over 24.5": 1.87,
+    "under 24.5": 1.87
+  },
+  "Top batter total - Match": {
+    "over 74.5": 1.85,
+    "under 74.5": 1.85
+  },
+  "Total Runs - Last Digit - Sunrisers Hyderabad - 1st Innings": {
+    "0": 8.60,
+    "1": 8.60,
+    "2": 8.60,
+    "3": 8.60,
+    "4": 8.60,
+    "5": 8.60,
+    "6": 8.60,
+    "7": 8.60,
+    "8": 8.60,
+    "9": 8.60
+  },
+  "Top Batsman - Punjab Kings - 1st Innings": {
+    "Iyer, Shreyas": 3.80,
+    "Singh, Prabhsimran": 4.10,
+    "Arya, Priyansh": 4.80,
+    "Connolly, Cooper": 6.00,
+    "Owen, Mitchell J": 7.80,
+    "Wadhera, Nehal": 8.40
+  },
+  "Top Bowler - Match": {
+    "Singh, Arshdeep": 5.30,
+    "Bartlett, Xavier": 6.20,
+    "Chahal, Yuzvendra": 6.20,
+    "Jansen, Marco": 7.00,
+    "Malinga, Eshan": 6.40,
+    "Vyshak, Vijaykumar": 6.80
+  },
+  "Top Bowler - Sunrisers Hyderabad - 1st Innings": {
+    "Carse, Brydon": 3.30,
+    "Malinga, Eshan": 3.75,
+    "Patel, Harshal": 4.25,
+    "Payne, David": 4.30,
+    "Unadkat, Jaydev": 4.30,
+    "Mavi, Shivam": 4.60
+  },
+  "Team with top bowler - Match": {
+    "Punjab Kings": 1.78,
+    "Sunrisers Hyderabad": 1.93
+  },
+  "Player Performance - Chahal, Yuzvendra - Match": {
+    "over 20.5": 2.02,
+    "under 20.5": 1.71
+  },
+  "Player Performance - Iyer, Shreyas - Match": {
+    "over 30.5": 1.83,
+    "under 30.5": 1.87
+  },
+  "Player Performance - Patel, Harshal - Match": {
+    "over 20.5": 2.10,
+    "under 20.5": 1.65
+  },
+  "Player Performance - Singh, Arshdeep - Match": {
+    "over 20.5": 1.93,
+    "under 20.5": 1.78
+  },
+  "Player Performance - Unadkat, Jaydev - Match": {
+    "over 20.5": 2.24,
+    "under 20.5": 1.58
+  },
+  "Batter Head To Head - Head, Travis - Sharma, Abhishek - 1st Innings": {
+    "Head, Travis": 1.94,
+    "Draw": 70.00,
+    "Sharma, Abhishek": 1.80
+  },
+  "First batsman to score 10 runs - 1st Innings": {
+    "Arya, Priyansh": 1.85,
+    "None": 12.50,
+    "Singh, Prabhsimran": 2.08
+  },
+  "Arya, Priyansh to score 50, Singh, Prabhsimran to score 50 - 1st Innings": {
+    "Yes": 8.20
+  },
+  "Head, Travis to score 50 and Reddy, Nithish to take 0.5 wickets - 1st Innings": {
+    "Yes": 5.00
+  },
+  "Kishan, Ishan to score 25 and Patel, Harshal to take 1.5 wickets - 1st Innings": {
+    "Yes": 4.40
+  },
+  "Singh, Prabhsimran to score 50 and Jansen, Marco to take 1.5 wickets - 1st Innings": {
+    "Yes": 7.00
+  },
+  "To score 50 - Connolly, Cooper - 1st Innings": {
+    "Yes": 4.40,
+    "No": 1.22
+  },
+  "To score 50 - Iyer, Shreyas - 1st Innings": {
+    "Yes": 2.96,
+    "No": 1.37
+  },
+  "To score 50 - Livingstone, Liam - 1st Innings": {
+    "Yes": 5.10,
+    "No": 1.15
+  },
+  "To score 50 - Singh, Prabhsimran - 1st Innings": {
+    "Yes": 3.35,
+    "No": 1.30
+  },
+  "To Score 75 - Head, Travis + Sharma, Abhishek - 1st Innings": {
+    "Yes": 2.32
+  },
+  "To Score 100 - Head, Travis + Sharma, Abhishek + Kishan, Ishan - 1st Innings": {
+    "Yes": 1.86
+  },
+  "Any Player to score 50 - Match": {
+    "Yes": 1.04,
+    "No": 8.40
+  },
+  "Any Player to score 100 - 1st Innings": {
+    "Yes": 7.60,
+    "No": 1.05
+  },
+  "Total at 1st dismissal - Punjab Kings - 1st Innings": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.87
+  },
+  "1st dismissal method (extended) - Punjab Kings - 1st Innings": {
+    "Fielder catch": 1.45,
+    "Bowled": 5.10,
+    "Run out": 14.00,
+    "Keeper catch": 7.40,
+    "LBW": 13.00,
+    "Stumped": 36.00,
+    "Others": 100.00
+  },
+  "Will the team have a dismissal in the 1st over - Punjab Kings - 1st Innings": {
+    "Yes": 4.10,
+    "No": 1.21
+  },
+  "Will the team have a dismissal in the 2nd over - Punjab Kings - 1st Innings": {
+    "Yes": 3.90,
+    "No": 1.23
+  },
+  "Will the team have a dismissal in the 3rd over - Punjab Kings - 1st Innings": {
+    "Yes": 3.75,
+    "No": 1.24
+  },
+  "Will the team have a dismissal in the 4th over - Punjab Kings - 1st Innings": {
+    "Yes": 3.55,
+    "No": 1.27
+  },
+  "Will the team have a dismissal in the 5th over - Punjab Kings - 1st Innings": {
+    "Yes": 3.50,
+    "No": 1.28
+  },
+  "Will the team have a dismissal in the 6th over - Punjab Kings - 1st Innings": {
+    "Yes": 3.65,
+    "No": 1.26
+  },
+  "Both Teams To Score 150 - Match": {
+    "Yes": 1.04
+  },
+  "Both Teams To Score 170 - Match": {
+    "Yes": 1.31
+  },
+  "Both Teams To Score 190 - Match": {
+    "Yes": 2.16
+  },
+  "Both Teams To Score 210 - Match": {
+    "Yes": 5.20
+  },
+  "Total sixes - Punjab Kings - 1st Innings": {
+    "over 10.5": 2.10,
+    "under 10.5": 1.65
+  },
+  "Most sixes - Match": {
+    "1": 2.08,
+    "X": 10.00,
+    "2": 1.96
+  },
+  "Total fours - Punjab Kings - 1st Innings": {
+    "over 16.5": 1.87,
+    "under 16.5": 1.83
+  },
+  "Most fours - Match": {
+    "1": 1.76,
+    "X": 11.00,
+    "2": 2.32
+  },
+  "Total run outs - Punjab Kings - 1st Innings": {
+    "over 0.5": 3.05,
+    "under 0.5": 1.33
+  },
+  "Total Wides - Match": {
+    "over 10.5": 2.12,
+    "under 10.5": 1.64
+  },
+  "Innings extras - Sunrisers Hyderabad - 1st Innings": {
+    "over 8.5": 1.94,
+    "under 8.5": 1.77
+  },
+  "Total Ducks - Match": {
+    "over 0.5": 1.58,
+    "under 0.5": 2.24
+  },
+  "Total Ducks - Sunrisers Hyderabad - 1st Innings": {
+    "over 0.5": 2.40,
+    "under 0.5": 1.50
+  },
+  "Total in the highest scoring over - Punjab Kings - 1st Innings": {
+    "over 20.5": 1.87,
+    "under 20.5": 1.83
+  },
+  "Player of the match - Match": {
+    "Iyer, Shreyas": 7.40,
+    "Singh, Prabhsimran": 7.80,
+    "Arya, Priyansh": 8.20,
+    "Sharma, Abhishek": 8.20,
+    "Head, Travis": 9.00,
+    "Kishan, Ishan": 9.40
+  },
+  "- Saturday's IPL Combined Total Fours Specials (2 Matches) - Match": {
+    "over 65.5": 1.85,
+    "under 65.5": 1.85
+  },
+  "- Saturday's IPL Match Most Fours (2 Matches) - Match": {
+    "Punjab Kings v Sunrisers Hyderabad": 1.85,
+    "Chennai Super Kings v Delhi Capitals": 1.95,
+    "Tie": 26.00
+  },
+  "- Saturday's IPL Player Most Runs (2 Matches) - Match": {
+    "KL Rahul": 3.25,
+    "Abhishek Sharma": 3.75,
+    "Sanju Samson": 3.75,
+    "Shreyas Iyer": 3.75
+  },
+  "- Saturday's IPL Team Most Sixes (2 Matches) - Match": {
+    "Punjab Kings": 3.00,
+    "Sunrisers Hyderabad": 3.50,
+    "Delhi Capitals": 3.75,
+    "Chennai Super Kings": 4.50
+  },
+  "- Saturday's IPL Match Doubles - Match": {
+    "Punjab Kings & Delhi Capitals": 3.25,
+    "Punjab Kings & Chennai Super Kings": 3.80,
+    "Sunrisers Hyderabad & Delhi Capitals": 3.85,
+    "Sunrisers Hyderabad & Chennai Super Kings": 4.50
+  },
+  "1st Ball of Sunrisers Hyderabad Innings - Match": {
+    "No Run, No Wicket": 1.80,
+    "Any Other Outcome": 3.00,
+    "Four (including nb4)": 5.00,
+    "Wide(s)": 17.00,
+    "Six (including nb6)": 21.00,
+    "Wicket": 41.00
+  },
+  "1st Boundary - 1st Innings - Match": {
+    "Four (including nb4)": 1.12,
+    "Six (including nb6)": 5.50
+  },
+  "1st Innings Runs - Match": {
+    "160 or More": 1.01,
+    "170 or More": 1.10,
+    "180 or More": 1.20,
+    "190 or More": 1.40,
+    "200 or More": 1.90,
+    "210 or More": 2.50
+  },
+  "1st Over Neither Team Specials - Match": {
+    "Neither Team To Lose A Wicket": 1.35,
+    "Neither Team To Hit A Six": 1.55,
+    "Neither Team To Hit A Four": 6.00,
+    "Neither Team To Hit A Boundary": 11.00
+  },
+  "1st Scoring Shot - 2nd Innings - Match": {
+    "One": 1.75,
+    "Four (including nb4)": 2.75,
+    "Any Other Score": 6.00
+  },
+  "Both Teams Fours Specials - Match": {
+    "Both Teams To Hit Over 14.5 Fours": 2.05,
+    "Both Teams To Hit Over 16.5 Fours": 3.25,
+    "Both Teams To Hit Over 18.5 Fours": 4.00
+  },
+  "Both Teams Stats Specials - Match": {
+    "Both Teams Opening Partnership Over 25.5 Runs": 2.50,
+    "Both Teams To Record A Duck": 5.00,
+    "Both Teams To Have A Run Out": 9.00,
+    "Both Teams To Hit Over 11.5 Sixes & Both Teams To Hit Over 16.5 Fours": 9.00,
+    "Both Teams To Hit Over 11.5 Sixes & Both Teams 1st Ball - Dot": 13.00
+  },
+  "Both Teams to Score (6 Overs) - Match": {
+    "Both Teams To Score 60 Runs": 3.25,
+    "Both Teams To Score 65 Runs": 5.75
+  },
+  "BTTS / Wincast - Match": {
+    "Punjab Kings To Win & Both Teams To Score Over 180 runs": 2.15,
+    "Punjab Kings To Win & Both Teams To Score Over 190 runs": 2.85,
+    "Punjab Kings To Win & Both Teams To Score Over 200 runs": 4.50,
+    "Punjab Kings To Win & Both Teams To Score Over 210 runs": 6.50
+  },
+  "Captain Most Fours Specials - Match": {
+    "Ishan Kishan": 1.88,
+    "Shreyas Iyer": 1.88
+  },
+  "Captain Most Sixes Specials - Match": {
+    "Ishan Kishan": 1.88,
+    "Shreyas Iyer": 1.88
+  },
+  "Highest Score After 10 Overs - Match": {
+    "Sunrisers": 1.85,
+    "Punjab Kings": 1.95,
+    "Tie": 23.00
+  },
+  "Highest Score After 6 Overs - Match": {
+    "Sunrisers": 1.85,
+    "Punjab Kings": 1.95,
+    "Tie": 23.00
+  },
+  "Innings Winner - Match": {
+    "Team Batting First To Win": 1.85,
+    "Team Batting Second To Win": 1.85
+  },
+  "Match Boundary Specials - Match": {
+    "Over 21.5 Sixes & Over 30.5 Fours": 2.50,
+    "Over 22.5 Sixes & Over 30.5 Fours": 3.00,
+    "Over 21.5 Sixes & Over 32.5 Fours": 3.10,
+    "Over 23.5 Sixes & Over 30.5 Fours": 3.50,
+    "Over 21.5 Sixes & Over 34.5 Fours": 3.75,
+    "Over 22.5 Sixes & Over 32.5 Fours": 3.75
+  },
+  "Match Specials - Match": {
+    "Hat-trick In Match": 34.00,
+    "Double Super Over": 81.00
+  },
+  "Opening Bat Specials - Match": {
+    "All Four Openers To Hit A Four": 1.40,
+    "Both Punjab Kings Openers To Score Over 9.5 Runs": 1.55,
+    "Both Sunrisers Openers To Score Over 9.5 Runs": 1.60,
+    "All Four Openers To Score Over 9.5 Runs": 2.25,
+    "All Four Openers To Hit A Six": 5.00,
+    "All Four Openers To Hit A Six & Over 2.5 Fours": 13.00
+  },
+  "Punjab Kings Batcasts - Match": {
+    "Shreyas to be Top Punjab Kings Run Scorer & Punjab Kings To Win The Match": 6.00,
+    "Prabhsimran to be Top Punjab Kings Run Scorer & Punjab Kings To Win The Match": 6.50,
+    "Priyansh Arya to be Top Punjab Kings Run Scorer & Punjab Kings To Win The Match": 7.50,
+    "Cooper Connolly to be Top Punjab Kings Run Scorer & Punjab Kings To Win The Match": 9.50,
+    "Shashank Singh to be Top Punjab Kings Run Scorer & Punjab Kings To Win The Match": 11.00
+  },
+  "Punjab Kings Catches Taken - Match": {
+    "over 4.5": 1.85,
+    "under 4.5": 1.85
+  },
+  "Punjab Kings Player Sixes - Match": {
+    "Shreyas to Hit Over 0.5 Sixes": 1.30,
+    "Prabhsimran to Hit Over 0.5 Sixes": 1.50,
+    "Priyansh Arya to Hit Over 0.5 Sixes": 1.50,
+    "Cooper Connolly to Hit Over 0.5 Sixes": 1.60,
+    "Shashank Singh to Hit Over 0.5 Sixes": 1.60
+  },
+  "Punjab Kings Runcasts - Match": {
+    "Shreyas To Score 50+ Runs & Punjab Kings To Win The Match": 4.50,
+    "Prabhsimran To Score 50+ Runs & Punjab Kings To Win The Match": 5.00,
+    "Priyansh Arya To Score 50+ Runs & Punjab Kings To Win The Match": 5.50,
+    "Cooper Connolly To Score 50+ Runs & Punjab Kings To Win The Match": 6.50,
+    "Shashank Singh To Score 50+ Runs & Punjab Kings To Win The Match": 6.50
+  },
+  "Sixcast - Match": {
+    "Punjab Kings To Score Most Sixes & Punjab Kings To Win The Match": 2.50,
+    "Sunrisers To Score Most Sixes & Sunrisers To Win The Match": 2.90,
+    "Sunrisers To Score Most Sixes & Punjab Kings To Win The Match": 6.00,
+    "Both Team To Score Same Number Of Sixes": 7.00,
+    "Punjab Kings To Score Most Sixes & Sunrisers To Win The Match": 7.00
+  },
+  "Sunrisers Catches Taken - Match": {
+    "over 4.5": 1.85,
+    "under 4.5": 1.85
+  },
+  "Sunrisers Hyderabad Boundary Specials - Match": {
+    "Sunrisers: Over 10.5 Sixes & Over 14.5 Fours": 2.25,
+    "Sunrisers: Over 10.5 Sixes & Over 16.5 Fours": 2.85,
+    "Sunrisers: Over 11.5 Sixes & Over 14.5 Fours": 2.85,
+    "Sunrisers: Over 10.5 Sixes & Over 18.5 Fours": 3.25,
+    "Sunrisers: Over 12.5 Sixes & Over 14.5 Fours": 3.25,
+    "Sunrisers: Over 11.5 Sixes & Over 16.5 Fours": 3.50
+  },
+  "Sunrisers Hyderabad Player Sixes - Match": {
+    "Abhishek Sharma to Hit Over 0.5 Sixes": 1.35,
+    "Head to Hit Over 0.5 Sixes": 1.40,
+    "Livingstone to Hit Over 0.5 Sixes": 1.50,
+    "Kishan to Hit Over 0.5 Sixes": 1.55,
+    "Nitish Kumar Reddy to Hit Over 0.5 Sixes": 1.65
+  },
+  "Sunrisers Runcasts - Match": {
+    "Abhishek Sharma To Score 50+ Runs & Sunrisers To Win The Match": 6.50,
+    "Kishan To Score 50+ Runs & Sunrisers To Win The Match": 6.50,
+    "Head To Score 50+ Runs & Sunrisers To Win The Match": 7.50,
+    "Livingstone To Score 50+ Runs & Sunrisers To Win The Match": 10.00,
+    "Nitish Kumar Reddy To Score 50+ Runs & Sunrisers To Win The Match": 11.00
+  },
+  "Teams Boundary Specials and Extras - Match": {
+    "Punjab Kings: Over 11.5 Sixes & Over 16.5 Fours & Over 8.5 Extras": 7.00,
+    "Sunrisers: Over 11.5 Sixes & Over 16.5 Fours & Over 9.5 Extras": 7.50
+  },
+  "Tosscast - Match": {
+    "Punjab Kings To Win The Toss & Punjab Kings To Win The Match": 3.10,
+    "Sunrisers To Win The Toss & Punjab Kings To Win The Match": 3.25,
+    "Punjab Kings To Win The Toss & Sunrisers To Win The Match": 4.00,
+    "Sunrisers To Win The Toss & Sunrisers To Win The Match": 4.00
+  },
+  "Total Match Catches - Match": {
+    "under 9.5": 1.70,
+    "over 9.5": 2.00
+  },
+  "Will there be a tie - Match": {
+    "Yes": 13.50
+  },
+  "Who will win the toss? (Toss is Boss) - Match": {
+    "Punjab Kings": 2.00,
+    "Sunrisers Hyderabad": 2.00
+  },
+  "Total Spreads - Punjab Kings - 1st Innings": {
+    "over 190.5": 1.87,
+    "under 190.5": 1.87
+  },
+  "Match Total Runs - Match": {
+    "over 377.5": 1.85,
+    "under 377.5": 1.85
+  },
+  "Total runs for over 1 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 7.5": 1.67,
+    "under 7.5": 2.12,
+    "over 8.5": 1.94,
+    "under 8.5": 1.81
+  },
+  "Total runs for over 2 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 8.5": 1.72,
+    "under 8.5": 2.04,
+    "over 9.5": 1.98,
+    "under 9.5": 1.77
+  },
+  "Total runs for over 3 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 9.5": 1.78,
+    "under 9.5": 1.97,
+    "over 10.5": 2.04,
+    "under 10.5": 1.73
+  },
+  "Total runs for over 4 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 9.5": 1.70,
+    "under 9.5": 2.06,
+    "over 10.5": 1.94,
+    "under 10.5": 1.80
+  },
+  "Total runs for over 5 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 9.5": 1.68,
+    "under 9.5": 2.10,
+    "over 10.5": 1.91,
+    "under 10.5": 1.83
+  },
+  "Total runs for over 6 in 1st inning - Sunrisers Hyderabad - 1st Innings": {
+    "over 9.5": 1.66,
+    "under 9.5": 2.14,
+    "over 10.5": 1.88,
+    "under 10.5": 1.86
+  },
+  "Total runs after 6 overs - Sunrisers Hyderabad - 1st Innings": {
+    "over 56.5": 1.49,
+    "under 56.5": 2.46,
+    "over 61.5": 1.86,
+    "under 61.5": 1.84,
+    "over 66.5": 2.44,
+    "under 66.5": 1.49
+  },
+  "Total runs after 8 overs - Sunrisers Hyderabad - 1st Innings": {
+    "over 73.5": 1.54,
+    "under 73.5": 2.32,
+    "over 78.5": 1.88,
+    "under 78.5": 1.83,
+    "over 83.5": 2.38,
+    "under 83.5": 1.52
+  },
+  "Total runs after 10 overs - Sunrisers Hyderabad - 1st Innings": {
+    "over 91.5": 1.59,
+    "under 91.5": 2.22,
+    "over 96.5": 1.89,
+    "under 96.5": 1.82,
+    "over 101.5": 2.32,
+    "under 101.5": 1.54
+  },
+  "Team with highest score at 1st dismissal - Match": {
+    "Punjab Kings": 1.90,
+    "Draw": 55.00,
+    "Sunrisers Hyderabad": 1.83
+  },
+  "Batsman Runs - Connolly, Cooper - 1st Innings": {
+    "over 21.5": 1.87,
+    "under 21.5": 1.87
+  },
+  "Batsman Runs - Iyer, Shreyas - 1st Innings": {
+    "over 26.5": 1.87,
+    "under 26.5": 1.87
+  },
+  "Batsman Runs - Klaasen, Heinrich - 1st Innings": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.87
+  },
+  "Batsman Runs - Sharma, Abhishek - 1st Innings": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.87
+  },
+  "Batsman Runs - Wadhera, Nehal - 1st Innings": {
+    "over 18.5": 1.87,
+    "under 18.5": 1.87
+  },
+  "Total Runs - Last Digit - Punjab Kings - 1st Innings": {
+    "0": 8.60,
+    "1": 8.60,
+    "2": 8.60,
+    "3": 8.60,
+    "4": 8.60,
+    "5": 8.60,
+    "6": 8.60,
+    "7": 8.60,
+    "8": 8.60,
+    "9": 8.60
+  },
+  "Top Batsman - Match": {
+    "Iyer, Shreyas": 6.00,
+    "Sharma, Abhishek": 6.00,
+    "Kishan, Ishan": 6.40,
+    "Singh, Prabhsimran": 7.25,
+    "Head, Travis": 6.80,
+    "Arya, Priyansh": 7.20
+  },
+  "Top Batsman - Sunrisers Hyderabad - 1st Innings": {
+    "Sharma, Abhishek": 3.70,
+    "Head, Travis": 4.10,
+    "Kishan, Ishan": 4.50,
+    "Klaasen, Heinrich": 6.00,
+    "Livingstone, Liam": 9.00,
+    "Sankaran, Smaran Ravichandran": 9.60
+  },
+  "Top Bowler - Punjab Kings - 1st Innings": {
+    "Singh, Arshdeep": 3.70,
+    "Bartlett, Xavier": 4.10,
+    "Chahal, Yuzvendra": 4.50,
+    "Jansen, Marco": 4.10,
+    "Vyshak, Vijaykumar": 4.30,
+    "Dwarshuis, Ben": 4.90
+  },
+  "Team with top batter - Match": {
+    "Punjab Kings": 1.74,
+    "Sunrisers Hyderabad": 1.97
+  },
+  "Player Performance - Arya, Priyansh - Match": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.84
+  },
+  "Player Performance - Head, Travis - Match": {
+    "over 25.5": 1.87,
+    "under 25.5": 1.84
+  },
+  "Player Performance - Kishan, Ishan - Match": {
+    "over 34.5": 1.84,
+    "under 34.5": 1.87
+  },
+  "Player Performance - Sharma, Abhishek - Match": {
+    "over 31.5": 1.87,
+    "under 31.5": 1.84
+  },
+  "Player Performance - Singh, Prabhsimran - Match": {
+    "over 35.5": 1.84,
+    "under 35.5": 1.86
+  },
+  "Batter Head To Head - Arya, Priyansh - Singh, Prabhsimran - 1st Innings": {
+    "Arya, Priyansh": 1.91,
+    "Draw": 65.00,
+    "Singh, Prabhsimran": 1.83
+  },
+  "First batsman to score 10 runs - 1st Innings (2)": {
+    "Head, Travis": 1.94,
+    "None": 13.50,
+    "Sharma, Abhishek": 1.96
+  },
+  "Arya, Priyansh to score 50 and Singh, Arshdeep to take 0.5 wickets - 1st Innings": {
+    "Yes": 4.50
+  },
+  "Connolly, Cooper to score 25 and Chahal, Yuzvendra to take 1.5 wickets - 1st Innings": {
+    "Yes": 4.60
+  },
+  "Head, Travis to score 50, Sharma, Abhishek to score 50 - 1st Innings": {
+    "Yes": 7.80
+  },
+  "Sharma, Abhishek to score 50 and Unadkat, Jaydev to take 1.5 wickets - 1st Innings": {
+    "Yes": 7.40
+  },
+  "To score 50 - Arya, Priyansh - 1st Innings": {
+    "Yes": 3.50,
+    "No": 1.28
+  },
+  "To score 50 - Head, Travis - 1st Innings": {
+    "Yes": 3.70,
+    "No": 1.29
+  },
+  "To score 50 - Kishan, Ishan - 1st Innings": {
+    "Yes": 3.20,
+    "No": 1.32
+  },
+  "To score 50 - Sharma, Abhishek - 1st Innings": {
+    "Yes": 3.15,
+    "No": 1.33
+  },
+  "To Score 75 - Arya, Priyansh + Singh, Prabhsimran - 1st Innings": {
+    "Yes": 2.42
+  },
+  "To Score 100 - Arya, Priyansh + Singh, Prabhsimran + Connolly, Cooper - 1st Innings": {
+    "Yes": 2.10
+  },
+  "Any Player to score 100 - Match (2)": {
+    "Yes": 6.75,
+    "No": 1.09
+  },
+  "Total batsman milestones (50's/100's) - Match": {
+    "0": 12.00,
+    "1": 4.10,
+    "2": 2.44,
+    "3+": 2.44
+  },
+  "Any Player to score 50 - 1st Innings": {
+    "Yes": 1.22,
+    "No": 3.90
+  },
+  "Total at 1st dismissal - Sunrisers Hyderabad - 1st Innings": {
+    "over 26.5": 1.87,
+    "under 26.5": 1.87
+  },
+  "1st dismissal method (extended) - Sunrisers Hyderabad - 1st Innings": {
+    "Fielder catch": 1.40,
+    "Bowled": 5.20,
+    "Run out": 16.00,
+    "Keeper catch": 7.20,
+    "LBW": 17.00,
+    "Stumped": 36.00,
+    "Others": 100.00
+  },
+  "Will the team have a dismissal in the 1st over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 4.00,
+    "No": 1.22
+  },
+  "Will the team have a dismissal in the 2nd over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 3.75,
+    "No": 1.25
+  },
+  "Will the team have a dismissal in the 3rd over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 3.60,
+    "No": 1.26
+  },
+  "Will the team have a dismissal in the 4th over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 3.40,
+    "No": 1.29
+  },
+  "Will the team have a dismissal in the 5th over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 3.35,
+    "No": 1.30
+  },
+  "Will the team have a dismissal in the 6th over - Sunrisers Hyderabad - 1st Innings": {
+    "Yes": 3.50,
+    "No": 1.28
+  },
+  "Both Teams To Score 160 - Match": {
+    "Yes": 1.13
+  },
+  "Both Teams To Score 180 - Match": {
+    "Yes": 1.61
+  },
+  "Both Teams To Score 200 - Match": {
+    "Yes": 3.20
+  },
+  "Total sixes - Match (2)": {
+    "over 19.5": 1.82,
+    "under 19.5": 1.89
+  },
+  "Total sixes - Sunrisers Hyderabad - 1st Innings": {
+    "over 9.5": 2.02,
+    "under 9.5": 1.71
+  },
+  "Total fours - Match (2)": {
+    "over 31.5": 1.78,
+    "under 31.5": 1.93
+  },
+  "Total fours - Sunrisers Hyderabad - 1st Innings": {
+    "over 15.5": 1.96,
+    "under 15.5": 1.76
+  },
+  "Total run outs - Match (2)": {
+    "over 0.5": 1.93,
+    "under 0.5": 1.78
+  },
+  "Total run outs - Sunrisers Hyderabad - 1st Innings": {
+    "over 0.5": 3.25,
+    "under 0.5": 1.30
+  },
+  "Innings extras - Punjab Kings - 1st Innings": {
+    "over 8.5": 2.12,
+    "under 8.5": 1.64
+  },
+  "Match Extras - Match (2)": {
+    "over 17.5": 2.06,
+    "under 17.5": 1.69
+  },
+  "Total Ducks - Punjab Kings - 1st Innings": {
+    "over 0.5": 2.40,
+    "under 0.5": 1.50
+  },
+  "Total in the highest scoring over - Match (2)": {
+    "over 21.5": 1.71,
+    "under 21.5": 2.02
+  },
+  "Total in the highest scoring over - Sunrisers Hyderabad - 1st Innings": {
+    "over 20.5": 1.87,
+    "under 20.5": 1.83
+  },
+  "- Saturday's IPL Combined Total Boundaries Specials (2 Matches) - Match": {
+    "over 101.5": 1.85,
+    "under 101.5": 1.85
+  },
+  "- Saturday's IPL Combined Total Sixes Specials (2 Matches) - Match": {
+    "over 36.5": 1.85,
+    "under 36.5": 1.85
+  },
+  "- Saturday's IPL Match Most Sixes (2 Matches) - Match": {
+    "Punjab Kings v Sunrisers Hyderabad": 1.85,
+    "Chennai Super Kings v Delhi Capitals": 2.05,
+    "Tie": 13.00
+  },
+  "- Saturday's IPL Team Most Fours (2 Matches) - Match": {
+    "Punjab Kings": 3.40,
+    "Sunrisers Hyderabad": 3.40,
+    "Delhi Capitals": 3.60,
+    "Chennai Super Kings": 4.00
+  },
+  "- Saturday's IPL Total Match Boundaries Specials (2 Matches) - Match": {
+    "Over 36.5 Sixes & Over 67.5 Fours": 3.25
+  },
+  "1st Ball of Punjab Kings Innings - Match": {
+    "No Run, No Wicket": 1.80,
+    "Any Other Outcome": 3.00,
+    "Four (including nb4)": 5.00,
+    "Wide(s)": 17.00,
+    "Six (including nb6)": 21.00,
+    "Wicket": 41.00
+  },
+  "1st Ball Team Specials - Match": {
+    "Both Teams 1st Ball - No Run, No Wicket": 3.00,
+    "Both Teams 1st Ball - Any Other Outcome": 8.00,
+    "Both Teams 1st Ball - Four (including nb4)": 23.00,
+    "Both Teams 1st Ball - Six (including nb6)": 41.00,
+    "Both Teams 1st Ball - Wicket": 41.00,
+    "Both Teams 1st Ball - Wide(s)": 41.00
+  },
+  "1st Boundary - 2nd Innings - Match": {
+    "Four (including nb4)": 1.12,
+    "Six (including nb6)": 5.00
+  },
+  "1st Over Both Teams Specials - Match": {
+    "Both Teams To Hit A Boundary": 1.55,
+    "Both Teams To Hit A Four": 2.05,
+    "Both Teams To Score Over 6.5 Runs": 2.50,
+    "Both Teams To Score Over 7.5 Runs": 3.25,
+    "Both Teams To Score Over 9.5 Runs": 5.00,
+    "Both Teams To Hit A Six": 11.00,
+    "Both Teams To Score Over 9.5 Runs & Both Teams 1st Ball - Dot": 13.00,
+    "Both Teams To Lose A Wicket": 17.00
+  },
+  "1st Scoring Shot - 1st Innings - Match": {
+    "One": 1.75,
+    "Four (including nb4)": 2.75,
+    "Any Other Score": 6.00
+  },
+  "1st Wicket Method - Match": {
+    "Caught": 1.35,
+    "Bowled": 4.75,
+    "LBW": 9.50,
+    "Run Out": 21.00,
+    "Stumped": 26.00,
+    "Others": 201.00
+  },
+  "Both Teams Sixes Specials - Match": {
+    "Both Teams To Hit Over 10.5 Sixes": 2.50,
+    "Both Teams To Hit Over 11.5 Sixes": 4.00,
+    "Both Teams To Hit Over 12.5 Sixes": 5.00
+  },
+  "Both Teams to Score (10 Overs) - Match": {
+    "Both Teams To Score 95 Runs": 3.10,
+    "Both Teams To Score 100 Runs": 5.20
+  },
+  "Both Teams to Score (8 Overs) - Match": {
+    "Both Teams To Score 75 Runs": 2.65,
+    "Both Teams To Score 80 Runs": 4.00
+  },
+  "BTTS / Wincast - Match (2)": {
+    "Sunrisers To Win & Both Teams To Score Over 180 runs": 2.85,
+    "Sunrisers To Win & Both Teams To Score Over 190 runs": 3.75,
+    "Sunrisers To Win & Both Teams To Score Over 200 runs": 5.50,
+    "Sunrisers To Win & Both Teams To Score Over 210 runs": 8.50
+  },
+  "Captain Most Runs Specials - Match": {
+    "Shreyas Iyer": 1.85,
+    "Ishan Kishan": 1.93,
+    "Tie": 34.00
+  },
+  "Clean Sweep Specials - Match": {
+    "Punjab Kings To Have The Highest Opening Partnership, Highest 1st Over Score, To Hit Most Sixes & Hit Most Fours": 10.00,
+    "Sunrisers To Have The Highest Opening Partnership, Highest 1st Over Score, To Hit Most Sixes & Hit Most Fours": 10.00
+  },
+  "Highest Score After 12 Overs - Match": {
+    "Sunrisers": 1.85,
+    "Punjab Kings": 1.95,
+    "Tie": 23.00
+  },
+  "Highest Score After 8 Overs - Match": {
+    "Sunrisers": 1.85,
+    "Punjab Kings": 1.95,
+    "Tie": 23.00
+  },
+  "Match Boundary & Extras Specials - Match": {
+    "Over 22.5 Sixes & Over 32.5 Fours & Over 18.5 Extras": 6.50,
+    "Over 22.5 Sixes & Over 32.5 Fours & Over 11.5 Wides": 7.00
+  },
+  "Match Specials - Match (2)": {
+    "Over 12.5 Wickets & Both Teams To Score 180 Runs": 2.05,
+    "Over 8.5 Catches, Over 2.5 Wickets Bowled, & Over 22.5 Sixes": 9.00,
+    "Over 12.5 Wickets, Over 1.5 LBW's & Over 22.5 Sixes": 13.00,
+    "Over 32.5 Fours, Over 1.5 LBW's & P. Arya Over 24.5 runs": 13.00,
+    "Over 12.5 Wickets, Over 1.5 Run Outs & Over 0.5 Stumpings": 17.00
+  },
+  "Match Specials - Match (3)": {
+    "Last Ball Of The 1st Innings To Be A 4": 2.25,
+    "Last Ball Of The 1st Innings To Be A 6": 3.50
+  },
+  "Punjab Kings 1st Over Specials - Match": {
+    "Punjab Kings To Hit a Four OR a Six": 1.30,
+    "Punjab Kings To Hit a Four": 1.55,
+    "Punjab Kings To Score Over 9.5 Runs": 2.35,
+    "Punjab Kings To Score Over 10.5 Runs": 2.65,
+    "Punjab Kings To Score Over 11.5 Runs": 2.95,
+    "Punjab Kings To Hit a 6": 3.50
+  },
+  "Punjab Kings Boundary Specials - Match": {
+    "Punjab Kings: Over 10.5 Sixes & Over 14.5 Fours": 2.35,
+    "Punjab Kings: Over 10.5 Sixes & Over 16.5 Fours": 2.85,
+    "Punjab Kings: Over 11.5 Sixes & Over 14.5 Fours": 2.85,
+    "Punjab Kings: Over 10.5 Sixes & Over 18.5 Fours": 3.25,
+    "Punjab Kings: Over 12.5 Sixes & Over 14.5 Fours": 3.25,
+    "Punjab Kings: Over 11.5 Sixes & Over 16.5 Fours": 3.50
+  },
+  "Punjab Kings Player Fours - Match": {
+    "Shreyas to Hit Over 2.5 Fours": 1.85,
+    "Prabhsimran to Hit Over 2.5 Fours": 1.90,
+    "Priyansh Arya to Hit Over 2.5 Fours": 1.90,
+    "Cooper Connolly to Hit Over 2.5 Fours": 2.00,
+    "Shashank Singh to Hit Over 2.5 Fours": 2.35
+  },
+  "Punjab Kings Player to Hit a Six & Over 2.5 Fours - Match": {
+    "Shreyas To Hit A Six & Over 2.5 Fours": 2.15,
+    "Prabhsimran To Hit A Six & Over 2.5 Fours": 2.65,
+    "Priyansh Arya To Hit A Six & Over 2.5 Fours": 2.65,
+    "Cooper Connolly To Hit A Six & Over 2.5 Fours": 2.85,
+    "Shashank Singh To Hit A Six & Over 2.5 Fours": 3.25
+  },
+  "Punjab Kings Total Boundaries Specials - Match": {
+    "under 28.5": 1.80,
+    "over 28.5": 1.90
+  },
+  "Sunrisers Batcasts - Match": {
+    "Abhishek Sharma to be Top Sunrisers Run Scorer & Sunrisers To Win The Match": 7.50,
+    "Head to be Top Sunrisers Run Scorer & Sunrisers To Win The Match": 8.50,
+    "Kishan to be Top Sunrisers Run Scorer & Sunrisers To Win The Match": 9.50,
+    "Livingstone to be Top Sunrisers Run Scorer & Sunrisers To Win The Match": 19.00,
+    "Nitish Kumar Reddy to be Top Sunrisers Run Scorer & Sunrisers To Win The Match": 23.00
+  },
+  "Sunrisers Hyderabad 1st Over Specials - Match": {
+    "Sunrisers To Hit a Four OR a Six": 1.30,
+    "Sunrisers To Hit a Four": 1.45,
+    "Sunrisers To Score Over 9.5 Runs": 2.35,
+    "Sunrisers To Score Over 10.5 Runs": 2.65,
+    "Sunrisers To Score Over 11.5 Runs": 2.95,
+    "Sunrisers To Hit a 6": 4.00
+  },
+  "Sunrisers Hyderabad Player Fours - Match": {
+    "Head to Hit Over 2.5 Fours": 1.45,
+    "Abhishek Sharma to Hit Over 2.5 Fours": 1.70,
+    "Kishan to Hit Over 2.5 Fours": 1.85,
+    "Nitish Kumar Reddy to Hit Over 2.5 Fours": 2.25,
+    "Livingstone to Hit Over 2.5 Fours": 2.90
+  },
+  "Sunrisers Hyderabad Player to Hit a Six & Over 2.5 Fours - Match": {
+    "Head To Hit A Six & Over 2.5 Fours": 1.85,
+    "Abhishek Sharma To Hit A Six & Over 2.5 Fours": 2.10,
+    "Kishan To Hit A Six & Over 2.5 Fours": 2.65,
+    "Nitish Kumar Reddy To Hit A Six & Over 2.5 Fours": 3.25,
+    "Livingstone To Hit A Six & Over 2.5 Fours": 4.00
+  },
+  "Sunrisers Total Boundaries Specials - Match": {
+    "over 27.5": 1.85,
+    "under 27.5": 1.85
+  },
+  "Top Bat/Match Winner Specials - Match": {
+    "Shreyas Top Team Batsman, Head Top Team Batsman and Punjab Kings to Win": 23.00,
+    "Shreyas Top Team Batsman, Head Top Team Batsman and Sunrisers to Win": 29.00
+  },
+  "Total Match Boundaries Specials - Match (2)": {
+    "under 55.5": 1.80,
+    "over 55.5": 1.90
+  },
+  "Total Match Runs - Match (2)": {
+    "390 or more": 1.75,
+    "400 or more": 2.20,
+    "410 or more": 2.50,
+    "420 or more": 3.00
+  }
+}

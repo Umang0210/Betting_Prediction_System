@@ -1,0 +1,96 @@
+[
+    {
+        "match": "PBKS vs SRH",
+        "date": "April 11, 2026",
+        "venue": "New PCA Cricket Stadium, Mullanpur",
+        "ai_win_prob": {
+            "PBKS": 61.3,
+            "SRH": 38.7
+        },
+        "confidence": "\ud83d\udfe1 MEDIUM",
+        "budget": 550.0,
+        "staked": 552.0,
+        "deployment_pct": 100.4,
+        "max_pft": 1464.0,
+        "exp_pft": 77.80000000000001,
+        "exp_roi": 14.1,
+        "max_roi": 265.2,
+        "stress_pl": 38.900000000000006,
+        "model_details": {
+            "xgboost": {
+                "pbks_prob": 58.0
+            },
+            "logistic": {
+                "pbks_prob": 62.0
+            },
+            "bayesian": {
+                "pbks_prob": 65.0
+            },
+            "ensemble": {
+                "pbks_prob": 61.3
+            }
+        },
+        "stats": {
+            "ipl2026_fi_avg": 192.4,
+            "t1_form_pct": 80,
+            "t2_form_pct": 40,
+            "toss_advantage": "54%",
+            "chase_bias": "58%"
+        },
+        "positive_ev_count": 4,
+        "bets": [
+            {
+                "market": "Top Bowler - Match",
+                "label": "Chahal, Yuzvendra",
+                "odds": 6.2,
+                "our_prob": 0.2,
+                "implied_prob": 0.1613,
+                "ev": 0.24,
+                "reason": "Chahal finds significant turn in Chandigarh.",
+                "stake": 138.0,
+                "ret": 856.0,
+                "exp_profit": 33.2,
+                "risk_tier": "\ud83d\udd34 LOW"
+            },
+            {
+                "market": "Top Bowler - Match",
+                "label": "Singh, Arshdeep",
+                "odds": 5.3,
+                "our_prob": 0.22,
+                "implied_prob": 0.1887,
+                "ev": 0.166,
+                "reason": "Arshdeep's death bowling in 2026 has been clinical.",
+                "stake": 138.0,
+                "ret": 731.0,
+                "exp_profit": 22.8,
+                "risk_tier": "\ud83d\udd34 LOW"
+            },
+            {
+                "market": "1st Over Neither Team Specials - Match",
+                "label": "Neither Team To Lose A Wicket",
+                "odds": 1.35,
+                "our_prob": 0.8,
+                "implied_prob": 0.7407,
+                "ev": 0.08,
+                "reason": "Cautious starts from Head and Prabhsimran to leverage the flat track late.",
+                "stake": 138.0,
+                "ret": 186.0,
+                "exp_profit": 10.8,
+                "risk_tier": "\ud83d\udfe2 HIGH"
+            },
+            {
+                "market": "Head To Head - Match",
+                "label": "Punjab Kings",
+                "odds": 1.76,
+                "our_prob": 0.613,
+                "implied_prob": 0.5682,
+                "ev": 0.0789,
+                "reason": "PBKS are undefeated in 2026 (Rank 2 (2/2 W)). Home ground advantage at Mullanpur makes them strong favorites.",
+                "stake": 138.0,
+                "ret": 243.0,
+                "exp_profit": 11.0,
+                "risk_tier": "\ud83d\udfe1 MEDIUM"
+            }
+        ]
+    }
+]

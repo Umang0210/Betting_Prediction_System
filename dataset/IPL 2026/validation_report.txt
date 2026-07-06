@@ -1,0 +1,400 @@
+=== matches ===
+Shape: (7, 22)
+Columns: ['match_id', 'date', 'venue', 'team1', 'team2', 'stage', 'toss_winner', 'toss_decision', 'first_ings_score', 'first_ings_wkts', 'second_ings_score', 'second_ings_wkts', 'match_result', 'match_winner', 'wb_runs', 'wb_wickets', 'balls_left', 'player_of_the_match', 'top_scorer', 'highscore', 'best_bowling', 'best_bowling_figure']
+
+   match_id            date                               venue team1 team2   stage toss_winner toss_decision  first_ings_score  first_ings_wkts  second_ings_score  second_ings_wkts match_result match_winner  wb_runs  wb_wickets  balls_left player_of_the_match            top_scorer  highscore         best_bowling best_bowling_figure
+0         1  March 28, 2026   M. Chinnaswamy Stadium, Bangalore   RCB   SRH  League         RCB          Bowl               201                9                203                 4    completed          RCB      NaN         6.0          26         Jacob Duffy          Ishan Kishan         80          Jacob Duffy               3--22
+1         2  March 29, 2026            Wankhede Stadium, Mumbai    MI   KKR  League          MI          Bowl               220                4                224                 4    completed           MI      NaN         6.0           5      Shardul Thakur        Ryan Rickelton         81       Shardul Thakur               3--39
+2         3  March 30, 2026         Barsapara Stadium, Guwahati    RR   CSK  League          RR          Bowl               127               10                128                 2    completed           RR      NaN         8.0          47       Nandre Burger  Vaibhav Sooryavanshi         52         Jofra Archer               2--19
+3         4  March 31, 2026  New PCA Cricket Stadium, Mullanpur  PBKS    GT  League        PBKS          Bowl               162                6                165                 7    completed         PBKS      NaN         3.0           5     Cooper Connolly       Cooper Connolly         72      Prasidh Krishna               3--29
+4         5  April 01, 2026      Ekana Cricket Stadium, Lucknow   LSG    DC  League          DC          Bowl               141               10                145                 4    completed           DC      NaN         6.0          17        Sameer Rizvi          Sameer Rizvi         70          Lungi Ngidi               3--27
+5         6  April 02, 2026               Eden Gardens, Kolkata   KKR   SRH  League         KKR          Bowl               226                8                161                10    completed          SRH     65.0         NaN          24  Nitish Kumar Reddy  Angkrish Raghuvanshi         52  Blessing Muzarabani               4--41
+6         7  April 03, 2026     MA Chidambaram Stadium, Chennai   CSK  PBKS  League        PBKS          Bowl               209                5                210                 5    completed         PBKS      NaN         5.0           8       Priyansh Arya           Ayush Matre         73    Vijaykumar Vyshak               2--38
+
+================================================================================
+
+=== points_table ===
+Shape: (10, 9)
+Columns: ['position', 'team', 'matches', 'wins', 'defeats', 'ties', 'abandoned', 'points', 'nrr']
+
+   position                         team  matches  wins  defeats  ties  abandoned  points     nrr
+0         1             Rajasthan Royals        1     1        0     0          0       2   4.171
+1         2  Royal Challengers Bengaluru        1     1        0     0          0       2  22.907
+2         3               Delhi Capitals        1     1        0     0          0       2   1.397
+3         4               Mumbai Indians        1     1        0     0          0       2   0.687
+4         5                 Punjab Kings        1     1        0     0          0       2   0.509
+5         6          Sunrisers Hyderabad        2     1        1     0          0       2   0.469
+6         7               Gujarat Titans        1     0        1     0          0       0  -0.509
+7         8         Lucknow Super Giants        1     0        1     0          0       0  -1.397
+8         9        Kolkata Knight Riders        2     0        1     0          0       0  -1.964
+9        10          Chennai Super Kings        1     0        1     0          0       0  -4.171
+
+================================================================================
+
+=== orange_cap ===
+Shape: (15, 16)
+Columns: ['Position', 'Batsman', 'Team', 'Matches', 'Innings', 'Not_out', 'Runs', 'Highest_score', 'Average', 'Balls_faced', 'Strike_rate', 'Hundreds', 'Fifties', 'Ducks', 'Fours', 'Sixes']
+
+    Position               Batsman  Team  Matches  Innings  Not_out  Runs  Highest_score  Average  Balls_faced  Strike_rate  Hundreds  Fifties  Ducks  Fours  Sixes
+0          1  Angkrish Raghuvanshi   KKR        2        2        0   103             52     51.5           58       177.58         0        2      0     12      4
+1          2          Ishan Kishan   SRH        2        2        0    94             80     47.0           47       200.00         0        1      0     11      5
+2          3      Heinrich Klaasen   SRH        2        2        0    83             52     41.5           57       145.61         0        1      0      6      2
+3          4        Ryan Rickelton    MI        1        1        0    81             81     81.0           43       188.37         0        1      0      4      8
+4          5          Rohit Sharma    MI        1        1        0    78             78     78.0           38       205.26         0        1      0      6      6
+5          6        Ajinkya Rahane   KKR        2        2        0    75             67     37.5           50       150.00         0        1      0      3      5
+6          7       Cooper Connolly  PBKS        1        1        1    72             72      NaN           44       163.63         0        1      0      5      5
+7          8          Sameer Rizvi    DC        1        1        1    70             70      NaN           47       148.93         0        1      0      5      4
+8          9           Virat Kohli   RCB        1        1        1    69             69      NaN           38       181.57         0        1      0      5      5
+9         10           Rinku Singh   KKR        2        2        1    68             35     68.0           46       147.82         0        0      0      8      1
+10        11            Finn Allen   KKR        2        2        0    65             37     32.5           24       270.83         0        0      0     10      4
+11        12      Devdutt Padikkal   RCB        1        1        0    61             61     61.0           26       234.61         0        1      0      7      4
+12        13           Travis Head   SRH        2        2        0    57             46     28.5           30       190.00         0        0      0      8      3
+13        14       Abhishek Sharma   SRH        2        2        0    55             48     27.5           29       189.65         0        0      0      4      5
+14        15  Vaibhav Sooryavanshi    RR        1        1        0    52             52     52.0           17       305.88         0        1      0      4      5
+
+================================================================================
+
+=== purple_cap ===
+Shape: (15, 14)
+Columns: ['Position', 'Bowler', 'Team', 'Matches', 'Innings', 'Balls', 'Overs', 'Maidens', 'Runs', 'Wickets', 'Best_bowling_figure', 'Economy_rate', 'Four_wicket_haul', 'Five_wicket_hall']
+
+    Position               Bowler  Team  Matches  Innings  Balls  Overs  Maidens  Runs  Wickets Best_bowling_figure  Economy_rate  Four_wicket_haul  Five_wicket_hall
+0          1       Jaydev Unadkat   SRH        2        2     36    6.0        0    50        4               3--21          8.33                 0                 0
+1          2  Blessing Muzarabani   KKR        2        2     42    7.0        0    75        4               4--41         10.71                 1                 0
+2          3          Jacob Duffy   RCB        1        1     24    4.0        0    22        3               3--22          5.50                 0                 0
+3          4          T Natarajan    DC        1        1     24    4.0        0    29        3               3--29          7.25                 0                 0
+4          5      Prasidh Krishna    GT        1        1     24    4.0        0    29        3               3--29          7.25                 0                 0
+5          6          Lungi Ngidi    DC        1        1     22    3.4        0    27        3               3--27          7.36                 0                 0
+6          7    Vijaykumar Vyshak  PBKS        1        1     24    4.0        0    34        3               3--34          8.50                 0                 0
+7          8       Shardul Thakur    MI        1        1     24    4.0        0    39        3               3--39          9.75                 0                 0
+8          9        Vaibhav Arora   KKR        2        2     48    8.0        0    99        3               2--47         12.37                 0                 0
+9         10     Romario Shepherd   RCB        1        1     24    4.0        0    54        3               2--54         13.50                 0                 0
+10        11         Jofra Archer    RR        1        1     24    4.0        0    19        2               2--19          4.75                 0                 0
+11        12      Ravindra Jadeja    RR        1        1     18    3.0        0    18        2               2--18          6.00                 0                 0
+12        13        Nandre Burger    RR        1        1     24    4.0        0    26        2               2--26          6.50                 0                 0
+13        14         Prince Yadav   LSG        1        1     18    3.0        0    20        2               2--20          6.66                 0                 0
+14        15     Yuzvendra Chahal  PBKS        1        1     24    4.0        0    28        2               2--28          7.00                 0                 0
+
+================================================================================
+
+=== squads ===
+Shape: (257, 6)
+Columns: ['team_no', 'team_name', 'player', 'nationality', 'role', 'designation']
+
+     team_no                    team_name               player nationality           role designation
+0          1               Mumbai Indians        Hardik Pandya      Indian    All Rounder     Captain
+1          1               Mumbai Indians         Rohit Sharma      Indian         Batter         NaN
+2          1               Mumbai Indians     Suryakumar Yadav      Indian         Batter         NaN
+3          1               Mumbai Indians       Jasprit Bumrah      Indian         Bowler         NaN
+4          1               Mumbai Indians       Ryan Rickelton    Overseas  Wicket Keeper         NaN
+5          1               Mumbai Indians  Sherfane Rutherford    Overseas         Batter         NaN
+6          1               Mumbai Indians           Naman Dhir      Indian    All Rounder         NaN
+7          1               Mumbai Indians           Will Jacks    Overseas    All Rounder         NaN
+8          1               Mumbai Indians       Shardul Thakur      Indian    All Rounder         NaN
+9          1               Mumbai Indians          Trent Boult    Overseas         Bowler         NaN
+10         1               Mumbai Indians         AM Ghazanfar    Overseas         Bowler         NaN
+11         1               Mumbai Indians     Mitchell Santner    Overseas    All Rounder         NaN
+12         1               Mumbai Indians          Tilak Varma      Indian         Batter         NaN
+13         1               Mumbai Indians      Quinton de Kock    Overseas  Wicket Keeper         NaN
+14         1               Mumbai Indians           Robin Minz      Indian  Wicket Keeper         NaN
+15         1               Mumbai Indians        Deepak Chahar      Indian         Bowler         NaN
+16         1               Mumbai Indians        Ashwani Kumar      Indian         Bowler         NaN
+17         1               Mumbai Indians      Mayank Markande      Indian         Bowler         NaN
+18         1               Mumbai Indians             Raj Bawa      Indian    All Rounder         NaN
+19         1               Mumbai Indians         Corbin Bosch    Overseas    All Rounder         NaN
+20         1               Mumbai Indians       Danish Malewar      Indian         Batter         NaN
+21         1               Mumbai Indians    Atharva Ankolekar      Indian    All Rounder         NaN
+22         1               Mumbai Indians         Mayank Rawat      Indian    All Rounder         NaN
+23         1               Mumbai Indians         Raghu Sharma      Indian         Bowler         NaN
+24         1               Mumbai Indians           Mohd Izhar      Indian         Bowler         NaN
+25         2          Chennai Super Kings      Ruturaj Gaikwad      Indian         Batter     Captain
+26         2          Chennai Super Kings        Dewald Brevis    Overseas         Batter         NaN
+27         2          Chennai Super Kings             MS Dhoni      Indian  Wicket Keeper         NaN
+28         2          Chennai Super Kings        Kartik Sharma      Indian  Wicket Keeper         NaN
+29         2          Chennai Super Kings        Sarfaraz Khan      Indian         Batter         NaN
+30         2          Chennai Super Kings          Ayush Matre      Indian         Batter         NaN
+31         2          Chennai Super Kings          Urvil Patel      Indian         Batter         NaN
+32         2          Chennai Super Kings         Sanju Samson      Indian  Wicket Keeper         NaN
+33         2          Chennai Super Kings            Aman Khan      Indian    All Rounder         NaN
+34         2          Chennai Super Kings         Shivam Dubey      Indian    All Rounder         NaN
+35         2          Chennai Super Kings          Zak Foulkes    Overseas    All Rounder         NaN
+36         2          Chennai Super Kings    Ramakrishna Ghosh      Indian    All Rounder         NaN
+37         2          Chennai Super Kings        Anshul Kamboj      Indian    All Rounder         NaN
+38         2          Chennai Super Kings        Jamie Overton    Overseas    All Rounder         NaN
+39         2          Chennai Super Kings        Matthew Short    Overseas    All Rounder         NaN
+40         2          Chennai Super Kings        Prashant Veer      Indian    All Rounder         NaN
+41         2          Chennai Super Kings        Khaleel Ahmed      Indian         Bowler         NaN
+42         2          Chennai Super Kings         Rahul Chahar      Indian         Bowler         NaN
+43         2          Chennai Super Kings        Shreyas Gopal      Indian         Bowler         NaN
+44         2          Chennai Super Kings           Matt Henry    Overseas         Bowler         NaN
+45         2          Chennai Super Kings     Gurjapneet Singh      Indian         Bowler         NaN
+46         2          Chennai Super Kings         Akeal Hosein    Overseas         Bowler         NaN
+47         2          Chennai Super Kings     Mukesh Choudhary      Indian         Bowler         NaN
+48         2          Chennai Super Kings      Spencer Johnson    Overseas         Bowler         NaN
+49         2          Chennai Super Kings          Noor Ahmad     Overseas         Bowler         NaN
+50         2          Chennai Super Kings         Nathan Ellis    Overseas         Bowler         NaN
+51         3         Kolkata Night Riders       Ajinkya Rahane      Indian         Batter     Captain
+52         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+53         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+54         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+55         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+56         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+57         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+58         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+59         3         Kolkata Night Riders                  NaN         NaN         Batter         NaN
+60         3         Kolkata Night Riders                  NaN         NaN  Wicket Keeper         NaN
+61         3         Kolkata Night Riders                  NaN         NaN  Wicket Keeper         NaN
+62         3         Kolkata Night Riders                  NaN         NaN    All Rounder         NaN
+63         3         Kolkata Night Riders                  NaN         NaN    All Rounder         NaN
+64         3         Kolkata Night Riders                  NaN         NaN    All Rounder         NaN
+65         3         Kolkata Night Riders                  NaN         NaN    All Rounder         NaN
+66         3         Kolkata Night Riders                  NaN         NaN    All Rounder         NaN
+67         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+68         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+69         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+70         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+71         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+72         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+73         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+74         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+75         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+76         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+77         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+78         3         Kolkata Night Riders                  NaN         NaN         Bowler         NaN
+79         4  Royal Challengers Bengaluru        Rajat Patidar      Indian         Batter     Captain
+80         4  Royal Challengers Bengaluru                  NaN         NaN         Batter         NaN
+81         4  Royal Challengers Bengaluru                  NaN         NaN         Batter         NaN
+82         4  Royal Challengers Bengaluru                  NaN         NaN         Batter         NaN
+83         4  Royal Challengers Bengaluru                  NaN         NaN  Wicket Keeper         NaN
+84         4  Royal Challengers Bengaluru                  NaN         NaN  Wicket Keeper         NaN
+85         4  Royal Challengers Bengaluru                  NaN         NaN  Wicket Keeper         NaN
+86         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+87         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+88         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+89         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+90         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+91         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+92         4  Royal Challengers Bengaluru                  NaN         NaN    All Rounder         NaN
+93         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+94         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+95         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+96         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+97         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+98         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+99         4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+100        4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+101        4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+102        4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+103        4  Royal Challengers Bengaluru                  NaN         NaN         Bowler         NaN
+104        5                Gujrat Titans         Shubman Gill      Indian         Batter     Captain
+105        5                Gujrat Titans                  NaN         NaN         Batter         NaN
+106        5                Gujrat Titans                  NaN         NaN         Batter         NaN
+107        5                Gujrat Titans                  NaN         NaN  Wicket Keeper         NaN
+108        5                Gujrat Titans                  NaN         NaN  Wicket Keeper         NaN
+109        5                Gujrat Titans                  NaN         NaN  Wicket Keeper         NaN
+110        5                Gujrat Titans                  NaN         NaN  Wicket Keeper         NaN
+111        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+112        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+113        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+114        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+115        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+116        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+117        5                Gujrat Titans                  NaN         NaN    All Rounder         NaN
+118        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+119        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+120        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+121        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+122        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+123        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+124        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+125        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+126        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+127        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+128        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+129        5                Gujrat Titans                  NaN         NaN         Bowler         NaN
+130        6             Rajasthan Royals          Riyan Parag      Indian         Batter     Captain
+131        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+132        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+133        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+134        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+135        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+136        6             Rajasthan Royals                  NaN         NaN         Batter         NaN
+137        6             Rajasthan Royals                  NaN         NaN  Wicket Keeper         NaN
+138        6             Rajasthan Royals                  NaN         NaN  Wicket Keeper         NaN
+139        6             Rajasthan Royals                  NaN         NaN    All Rounder         NaN
+140        6             Rajasthan Royals                  NaN         NaN    All Rounder         NaN
+141        6             Rajasthan Royals                  NaN         NaN    All Rounder         NaN
+142        6             Rajasthan Royals                  NaN         NaN    All Rounder         NaN
+143        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+144        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+145        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+146        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+147        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+148        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+149        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+150        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+151        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+152        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+153        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+154        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+155        6             Rajasthan Royals                  NaN         NaN         Bowler         NaN
+156        7          Sunrisers Hyderabad         Ishan Kishan      Indian  Wicket Keeper     Captain
+157        7          Sunrisers Hyderabad                  NaN         NaN         Batter         NaN
+158        7          Sunrisers Hyderabad                  NaN         NaN         Batter         NaN
+159        7          Sunrisers Hyderabad                  NaN         NaN         Batter         NaN
+160        7          Sunrisers Hyderabad                  NaN         NaN  Wicket Keeper         NaN
+161        7          Sunrisers Hyderabad                  NaN         NaN  Wicket Keeper         NaN
+162        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+163        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+164        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+165        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+166        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+167        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+168        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+169        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+170        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+171        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+172        7          Sunrisers Hyderabad                  NaN         NaN    All Rounder         NaN
+173        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+174        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+175        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+176        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+177        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+178        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+179        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+180        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+181        7          Sunrisers Hyderabad                  NaN         NaN         Bowler         NaN
+182        8                 Punjab Kings         Shreyas Iyer      Indian         Batter     Captain
+183        8                 Punjab Kings                  NaN         NaN         Batter         NaN
+184        8                 Punjab Kings                  NaN         NaN         Batter         NaN
+185        8                 Punjab Kings                  NaN         NaN         Batter         NaN
+186        8                 Punjab Kings                  NaN         NaN         Batter         NaN
+187        8                 Punjab Kings                  NaN         NaN  Wicket Keeper         NaN
+188        8                 Punjab Kings                  NaN         NaN  Wicket Keeper         NaN
+189        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+190        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+191        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+192        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+193        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+194        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+195        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+196        8                 Punjab Kings                  NaN         NaN    All Rounder         NaN
+197        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+198        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+199        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+200        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+201        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+202        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+203        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+204        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+205        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+206        8                 Punjab Kings                  NaN         NaN         Bowler         NaN
+207        9               Delhi Capitals           Axar Patel      Indian    All Rounder     Captain
+208        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+209        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+210        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+211        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+212        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+213        9               Delhi Capitals                  NaN         NaN         Batter         NaN
+214        9               Delhi Capitals                  NaN         NaN  Wicket Keeper         NaN
+215        9               Delhi Capitals                  NaN         NaN  Wicket Keeper         NaN
+216        9               Delhi Capitals                  NaN         NaN  Wicket Keeper         NaN
+217        9               Delhi Capitals                  NaN         NaN  Wicket Keeper         NaN
+218        9               Delhi Capitals                  NaN         NaN    All Rounder         NaN
+219        9               Delhi Capitals                  NaN         NaN    All Rounder         NaN
+220        9               Delhi Capitals                  NaN         NaN    All Rounder         NaN
+221        9               Delhi Capitals                  NaN         NaN    All Rounder         NaN
+222        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+223        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+224        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+225        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+226        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+227        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+228        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+229        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+230        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+231        9               Delhi Capitals                  NaN         NaN         Bowler         NaN
+232       10         Lucknow Super Giants         Rishabh Pant      Indian  Wicket Keeper     Captain
+233       10         Lucknow Super Giants                  NaN         NaN  Wicket Keeper         NaN
+234       10         Lucknow Super Giants                  NaN         NaN  Wicket Keeper         NaN
+235       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+236       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+237       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+238       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+239       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+240       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+241       10         Lucknow Super Giants                  NaN         NaN         Batter         NaN
+242       10         Lucknow Super Giants                  NaN         NaN    All Rounder         NaN
+243       10         Lucknow Super Giants                  NaN         NaN    All Rounder         NaN
+244       10         Lucknow Super Giants                  NaN         NaN    All Rounder         NaN
+245       10         Lucknow Super Giants                  NaN         NaN    All Rounder         NaN
+246       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+247       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+248       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+249       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+250       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+251       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+252       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+253       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+254       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+255       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+256       10         Lucknow Super Giants                  NaN         NaN         Bowler         NaN
+
+================================================================================
+
+=== venues ===
+Shape: (12, 5)
+Columns: ['venue_stadium', 'city', 'state', 'country', 'capacity']
+
+                         venue_stadium         city             state country  capacity
+0                Narendra Modi Stadium    Ahmedabad            Gujrat   India    132000
+1                     Wankhede Stadium       Mumbai       Maharashtra   India     33108
+2                         Eden Gardens      Kolkata       West Bengal   India     68000
+3               MA Chidambaram Stadium      Chennai        Tamil Nadu   India     50000
+4                 Arun Jaitley Stadium    New Delhi             Delhi   India     41000
+5              New PCA Cricket Stadium   Chandigarh            Punjab   India     38000
+6                Ekana Cricket Stadium      Lucknow     Uttar Pradesh   India     50000
+7   Rajiv Gandhi International Stadium    Hyderabad         Telangana   India     55000
+8               M. Chinnaswamy Stadium    Bengaluru         Karnataka   India     33800
+9                    Barsapara Stadium     Guwahati             Assam   India     46000
+10              Sawai Mansingh Stadium       Jaipur         Rajasthan   India     30000
+11                        HPCA Stadium  Dharamshala  Himachal Pradesh   India     23000
+
+================================================================================
+
+=== deliveries (head 20) ===
+Shape: (1382, 19)
+All Columns: ['match_no', 'date', 'stage', 'venue', 'batting_team', 'bowling_team', 'innings', 'over', 'striker', 'bowler', 'runs_of_bat', 'extras', 'wide', 'legbyes', 'byes', 'noballs', 'wicket_type', 'player_dismissed', 'fielder']
+
+    match_no          date         stage                             venue batting_team bowling_team  innings  over          striker             bowler  runs_of_bat  extras  wide  legbyes  byes  noballs wicket_type player_dismissed        fielder
+0          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.1      Travis Head        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+1          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.2      Travis Head        Jacob Duffy            1       0     0        0     0        0         NaN              NaN            NaN
+2          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.3  Abhishek Sharma        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+3          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.4  Abhishek Sharma        Jacob Duffy            6       0     0        0     0        0         NaN              NaN            NaN
+4          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.5  Abhishek Sharma        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+5          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   0.6  Abhishek Sharma        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+6          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.1      Travis Head  Bhuvneshwar Kumar            1       0     0        0     0        0         NaN              NaN            NaN
+7          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.2  Abhishek Sharma  Bhuvneshwar Kumar            1       0     0        0     0        0         NaN              NaN            NaN
+8          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.3      Travis Head  Bhuvneshwar Kumar            1       0     0        0     0        0         NaN              NaN            NaN
+9          1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.4  Abhishek Sharma  Bhuvneshwar Kumar            0       0     0        0     0        0         NaN              NaN            NaN
+10         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.4  Abhishek Sharma  Bhuvneshwar Kumar            0       1     1        0     0        0         NaN              NaN            NaN
+11         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.5  Abhishek Sharma  Bhuvneshwar Kumar            0       1     0        1     0        0         NaN              NaN            NaN
+12         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.5  Abhishek Sharma  Bhuvneshwar Kumar            0       1     1        0     0        0         NaN              NaN            NaN
+13         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   1.6      Travis Head  Bhuvneshwar Kumar            4       0     0        0     0        0         NaN              NaN            NaN
+14         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.1  Abhishek Sharma        Jacob Duffy            0       0     0        0     0        0      caught  Abhishek Sharma  Jitesh Sharma
+15         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.1  Abhishek Sharma        Jacob Duffy            0       1     1        0     0        0      bowled              NaN            NaN
+16         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.1  Abhishek Sharma        Jacob Duffy            0       1     1        0     0        0         NaN              NaN            NaN
+17         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.2     Ishan Kishan        Jacob Duffy            1       0     0        0     0        0         NaN              NaN            NaN
+18         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.3      Travis Head        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+19         1  Mar 28, 2026  League stage  M.Chinnaswamy Stadium, Bengaluru          SRH          RCB        1   2.4      Travis Head        Jacob Duffy            0       0     0        0     0        0         NaN              NaN            NaN
+
+Match IDs in deliveries: [1, 2, 3, 4, 5, 6]
+
+Deliveries per match:
+match_no
+1    228
+2    247
+3    199
+4    250
+5    228
+6    230
