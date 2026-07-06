@@ -1,0 +1,342 @@
+# =========================
+# UNIT 1 — DATA PREPARATION
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+print("Data Prepared:", X_train.shape)
+
+
+# =========================
+# LINEAR REGRESSION
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df[['alcohol']]
+y = df['malic_acid']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+print("MSE:", mean_squared_error(y_test, y_pred))
+print("R2:", r2_score(y_test, y_pred))
+print("Prediction:", model.predict([[13]]))
+
+
+# =========================
+# POLYNOMIAL REGRESSION
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df[['alcohol']]
+y = df['malic_acid']
+
+poly = PolynomialFeatures(degree=2)
+X_poly = poly.fit_transform(X)
+
+X_train, X_test, y_train, y_test = train_test_split(X_poly, y, test_size=0.2)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+print("Prediction:", model.predict(poly.transform([[13]])))
+
+
+# =========================
+# LOGISTIC REGRESSION
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = LogisticRegression(max_iter=1000)
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+# =========================
+# KNN
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = KNeighborsClassifier(n_neighbors=3)
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# NAIVE BAYES
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import GaussianNB
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = GaussianNB()
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# DECISION TREE
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = DecisionTreeClassifier()
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# SVM
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = SVC()
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# K-MEANS
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.cluster import KMeans
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+
+model = KMeans(n_clusters=3)
+model.fit(X)
+
+print("Clusters:", model.labels_[:10])
+print("Prediction:", model.predict([X.iloc[0]]))
+
+
+# =========================
+# HIERARCHICAL CLUSTERING
+# =========================
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.datasets import load_wine
+from scipy.cluster.hierarchy import dendrogram, linkage
+from sklearn.cluster import AgglomerativeClustering
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df.values
+
+Z = linkage(X, method='ward')
+
+plt.figure(figsize=(8,5))
+dendrogram(Z)
+plt.show()
+
+model = AgglomerativeClustering(n_clusters=3)
+print("Clusters:", model.fit_predict(X)[:10])
+
+
+# =========================
+# PCA
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.decomposition import PCA
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+
+pca = PCA(n_components=2)
+X_reduced = pca.fit_transform(X)
+
+print("Shape:", X_reduced.shape)
+
+
+# =========================
+# MLP
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = MLPClassifier(max_iter=500)
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# CROSS VALIDATION
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LogisticRegression
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+model = LogisticRegression(max_iter=1000)
+
+scores = cross_val_score(model, X, y, cv=5)
+
+print("Mean Score:", scores.mean())
+
+
+# =========================
+# RANDOM FOREST
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = RandomForestClassifier()
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
+
+
+# =========================
+# GRADIENT BOOSTING
+# =========================
+import pandas as pd
+from sklearn.datasets import load_wine
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.metrics import accuracy_score
+
+data = load_wine()
+df = pd.DataFrame(data.data, columns=data.feature_names)
+
+X = df
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = GradientBoostingClassifier()
+model.fit(X_train, y_train)
+
+print("Accuracy:", accuracy_score(y_test, model.predict(X_test)))
